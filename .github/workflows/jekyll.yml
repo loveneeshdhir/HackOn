@@ -20,9 +20,3 @@ jobs:
       with:
         args: git submodule update --init --remote --merge
 
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
-        SSH: true
-        BRANCH: gh-pages
-        FOLDER: .
