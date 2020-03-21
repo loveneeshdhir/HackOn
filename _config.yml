@@ -8,6 +8,7 @@ defaults:
         small_logo: './assets/img/GitHub_Logo_White.png'
         logo: './assets/img/GitHub_Logo_White.png'
       socials:
+        devfolio: https://platform.hackquarantine.com/
         discord: https://discord.gg/FpgXe8
         platform: https://platform.hackquarantine.com/
         workshops: https://workshops.hackquarantine.com/
