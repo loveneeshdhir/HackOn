@@ -8,14 +8,12 @@ defaults:
         small_logo: './assets/img/GitHub_Logo_White.png'
         logo: './assets/img/GitHub_Logo_White.png'
       socials:
-        discord: https://discord.hackquarantine.com/
+        discord: https://discord.gg/FpgXe8
         platform: https://platform.hackquarantine.com/
         workshops: https://workshops.hackquarantine.com/
         twitter: https://twitter.com/HackQuarantine
         telegram: https://t.me/HackathonHackers
-        facebook: https://www.facebook.com/HackQuarantine
-        instagram: https://www.instagram.com/hackquarantine/
-        linkedin: https://www.linkedin.com/company/hackquarantine/
+
         schedule: /schedule
         emails: 'https://cdn.forms-content.sg-form.com/2e1cc968-66fa-11ea-9912-5e37fcc2990c'
         donate: /donate
